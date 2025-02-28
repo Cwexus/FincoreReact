@@ -1,4 +1,4 @@
 {
-  "baseURL": "https://jiranismart.mifosconnect.com/fineract-provider/api/v1",
-  "tenantId": "jiranismart"
+  "baseURL": "https://foursmiles.mifosconnect.com/fineract-provider/api/v1/",
+  "tenantId": "foursmiles"
 }
